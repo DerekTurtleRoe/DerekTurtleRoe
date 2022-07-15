@@ -40,15 +40,14 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <h3 align="center">I play games on:</h3>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epic%20games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/epic%20games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games Store"></a>
+<a href="#"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.Net"></a>
+<a href="#"><img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA/Origin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="Ubisoft"></a>
+<a href="#"><img src="https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games"></a>
+<a href="#"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="#"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"></a>
+<a href="#"><img src="https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" alt="PlayStation"></a>
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
