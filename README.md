@@ -1,6 +1,6 @@
 <p align="center">
-
 <a href="https://bio.link/derekturtleroe"><img src="./img/logo.png" alt="logo" width="60%"></a>
+</p>
 
 I'm Derek "Turtle" Roe. Nice to meet you! 😄
 
@@ -126,5 +126,3 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <a href="https://ko-fi.com/DerekTurtleRoe"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
 <a href="https://paypal.me/vgturtle127"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 <a href="https://github.com/sponsors/DerekTurtleRoe"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub sponsor"></a>
-
-</p>
