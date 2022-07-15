@@ -1,3 +1,5 @@
+<p align="center">
+
 <a href="https://bio.link/derekturtleroe"><img src="./img/logo.png" alt="logo" width="60%"></a>
 
 I'm Derek "Turtle" Roe. Nice to meet you! 😄
@@ -19,8 +21,6 @@ You can find all of my social media and ways to support me here: https://bio.lin
 📫 How to reach me: My social media is below! I am most active on Discord.
 
 😄 Pronouns: he/him
-
-<p align="center">
 
 <img src="./img/rgb.png" alt="logo" width="200%">
 
