@@ -20,6 +20,8 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 😄 Pronouns: he/him
 
+<p align="center">
+
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Social media</h3>
@@ -124,3 +126,5 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <a href="https://ko-fi.com/DerekTurtleRoe"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
 <a href="https://paypal.me/vgturtle127"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 <a href="https://github.com/sponsors/DerekTurtleRoe"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub sponsor"></a>
+
+</p>
