@@ -22,29 +22,29 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 😄 Pronouns: he/him
 
-<img src="./img/rgb.png" alt="logo" width="200%">
+<img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Social media</h3>
-
-<a href="https://reddit.com/vgturtle127"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
+<p align="center">
 <a href="https://twitch.tv/derekturtleroe"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"></a>
-<a href="https://tiktok.com/@derekturtleroe"><img src="https://img.shields.io/badge/Tik%20Tok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tik Tok"></a>
-<a href="https://discord.gg/tA58pgFbSQ"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://youtube.com/derekroeturtle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://odysee.com"><img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" alt="Odysee"></a>
+<a href="https://discord.gg/tA58pgFbSQ"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://twitter.com/derekturtleroe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://instagram.com/derekturtleroe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://youtube.com/derekroeturtle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-
+<a href="https://tiktok.com/@derekturtleroe"><img src="https://img.shields.io/badge/Tik%20Tok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tik Tok"></a>
+<a href="https://reddit.com/vgturtle127"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
+</p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">I play games on:</h3>
-
+<p align="center">
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epic%20games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-
+</p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Software I'm worked with</h3>
-
+<p align="center">
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
@@ -86,11 +86,11 @@ You can find all of my social media and ways to support me here: https://bio.lin
 ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-
+</p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Languages I've worked with</h3>
-
+<p align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/AutoHotkey-4FBB4F?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -110,19 +110,20 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell scripts">
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt=NodeJS">
-
+</p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Operating systems I use and develop on</h3>
-
+<p align="center">
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+</p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
 <h3 align="center">Ways to financially support me and my projects</h3>
-
+<p align="center">
 <a href="https://ko-fi.com/DerekTurtleRoe"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
 <a href="https://paypal.me/vgturtle127"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 <a href="https://github.com/sponsors/DerekTurtleRoe"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub sponsor"></a>
+</p>
