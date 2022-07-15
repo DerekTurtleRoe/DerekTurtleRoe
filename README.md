@@ -37,11 +37,15 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <a href="https://youtube.com/derekroeturtle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
+<img src="./img/rgb.png" alt="logo" width="100%">
+
 <h2 align="center">I play games on:</h2>
 <p align="center">
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epic%20games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riot%20games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 </p>
+
+<img src="./img/rgb.png" alt="logo" width="100%">
 
 <h2 align="center">Software I'm worked with</h2>
 <p align="center">
@@ -50,6 +54,8 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 </p>
+
+<img src="./img/rgb.png" alt="logo" width="100%">
 
 <h2 align="center">Languages I've worked with</h2>
 <p align="center">
@@ -76,6 +82,8 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 </p>
 
+<img src="./img/rgb.png" alt="logo" width="100%">
+
 <h2 align="center">Operating systems I use and develop on</h2>
 <p align="center">
 
@@ -85,8 +93,11 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 </p>
 
-<h2 align="center">Ways to financially support me and my projects</h2>
+<img src="./img/rgb.png" alt="logo" width="100%">
+
+<h1 align="center">Ways to financially support me and my projects</h1>
 <p align="center">
+
 <a href="https://ko-fi.com/DerekTurtleRoe"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"></a>
 <a href="https://paypal.me/vgturtle127"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 <a href="https://github.com/sponsors/DerekTurtleRoe"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub sponsor"></a>
