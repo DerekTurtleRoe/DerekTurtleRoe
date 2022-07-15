@@ -1,4 +1,4 @@
-<a href="https://bio.link/derekturtleroe"><img src="./img/logo.png" alt="logo" width="50%"></a>
+<a href="https://bio.link/derekturtleroe"><img src="./img/logo.png" alt="logo" width="60%"></a>
 
 I'm Derek "Turtle" Roe. Nice to meet you! 😄
 
@@ -22,7 +22,7 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 <p align="center">
 
-<img src="./img/rgb.png" alt="logo" width="100%">
+<img src="./img/rgb.png" alt="logo" width="200%">
 
 <h3 align="center">Social media</h3>
 
