@@ -14,7 +14,7 @@ You can find all of my social media and ways to support me here: https://bio.lin
 
 👯‍ I'm looking to collaborate on preservation and emulation projects, and other free and open-source projects.
 
-🤔 I'm looking for help with building a Sanni dumper, and a SummerCart64.
+🤔 I'm looking for help with building a Sanni dumper, a Brutzelkart, and a SummerCart64.
 
 💬 Ask me about software preservation, emulation, video game history, and other technology subjects!
 
