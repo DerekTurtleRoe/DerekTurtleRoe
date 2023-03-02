@@ -29,11 +29,10 @@ You can find all of my social media and ways to support me here: https://bio.lin
 <a href="https://twitch.tv/derekturtleroe"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"></a>
 <a href="https://youtube.com/derekroeturtle"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://odysee.com"><img src="https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white" alt="Odysee"></a>
-<a href="https://discord.gg/tA58pgFbSQ"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://twitter.com/derekturtleroe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://instagram.com/derekturtleroe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://tiktok.com/@derekturtleroe"><img src="https://img.shields.io/badge/Tik%20Tok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tik Tok"></a>
-<a href="https://reddit.com/vgturtle127"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
