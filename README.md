@@ -50,7 +50,7 @@ You can find all of my social media and ways to support me here: https://bio.lin
 </p>
 <img src="./img/rgb.png" alt="logo" width="100%">
 
-<h3 align="center">Software I'm worked with</h3>
+<h3 align="center">Software I've worked with</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
